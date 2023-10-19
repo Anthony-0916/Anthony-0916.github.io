@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://anthony-0916.github.iohttps://github.com/anthony-0916/anthony-0916.github.io/blob/master/_config.yml/sitemap.xml
+Sitemap: https://anthony-0916.github.io/al-folio/sitemap.xml
