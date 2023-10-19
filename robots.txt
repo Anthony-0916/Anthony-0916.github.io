@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://anthony-0916.github.io/al-folio/sitemap.xml
+Sitemap: https://anthony-0916.github.io/sitemap.xml
