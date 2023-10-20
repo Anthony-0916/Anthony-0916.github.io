@@ -1,7 +1,7 @@
 ---
 layout: page
 title: New Trends in Brand Communication
-description: Personal Opinion: Three New Trends in Brand Communication
+description: Three New Trends in Brand Communication
 img: assets/img/12.jpg
 importance: 1
 category: work
