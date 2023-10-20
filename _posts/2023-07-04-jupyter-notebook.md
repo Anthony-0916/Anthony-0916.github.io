@@ -1,15 +1,15 @@
 ---
 layout: post
-title: a post with jupyter notebook
-date: 2023-07-04 08:57:00-0400
-description: an example of a blog post with jupyter notebook
+title: Digital countryside
+date: 2023-10-15 08:57:00-0400
+description: Digital countryside is an endogenous process of agricultural and rural modernization and transformation
 tags: formatting jupyter
 categories: sample-posts
 giscus_comments: true
 related_posts: false
 ---
 
-To include a jupyter notebook in a post, you can use the following code:
+Digital countryside is an endogenous process of agricultural and rural modernization and transformation, accompanied by the application of networking, informatization, and digitization in the development of agricultural and rural economy and society, as well as the improvement of farmers' modern information skills. It is not only a strategic direction for rural revitalization, but also an important content of building a digital China:
 
 {% raw %}
 
