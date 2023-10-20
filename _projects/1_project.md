@@ -1,25 +1,25 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: New Trends in Brand Communication
+description: Personal Opinion: Three New Trends in Brand Communication
 img: assets/img/12.jpg
 importance: 1
 category: work
 related_publications: einstein1956investigations, einstein1950meaning
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+First：Integration of digital technology AIGC into technology driven
+Generative artificial intelligence aims to interact and collaborate with humans in a way that is close to human behavior. It is a new generative network information content that has emerged with the evolution of network morphology and the transformation of artificial intelligence technology.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Second：User participation in co creation, social fission dissemination
+①User participation reduces communication costs
+The extensive dissemination method can no longer adapt to new market trends, and the way users can participate is more cost-effective. People will actively try to communicate with others at Amway and unconsciously advertise for the brand. If a marketing advertisement can give consumers the initiative to obtain information and also make them become producers, processors, and disseminators of information, it can make information more effective in dissemination and lower the cost of brand communication.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+②User participation makes communication faster
+The emergence of social media has greatly accelerated the dissemination of information sharing among people. If a brand topic can attract public participation, then the brand can also be quickly spread. The spontaneous sharing of videos, images, and text on social platforms by users has driven more friends to try.
+
+③ User engagement enables deeper communication
+In the era of internet consumption, people are constantly facing the possibility of fragmented information impact. It is not an easy task to convey product information more deeply to consumers. Interactive communication can meet users' demands for a sense of participation in the process of using the product, narrow the distance between users and the product, break through a single dimension of content, and provide a rich experience. This also makes users more willing to accept the information conveyed by advertisements, allowing the spread of information to penetrate deeper into the hearts of consumers. Enhance users' sense of participation, give them a real sense of presence in the event, experience the role they bring, and enhance the reputation of the event through the connection between the brand and individual users, thereby establishing a positive image of the enterprise. In the current era of severe product homogenization, user participation is of great significance for the marketing of the enterprise.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -44,9 +44,6 @@ To give your project a background in the portfolio page, just add the img tag to
     This image can also have a caption. It's like magic.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
 
 
 <div class="row justify-content-sm-center">
@@ -62,10 +59,6 @@ You describe how you toiled, sweated, *bled* for your project, and then... you r
 </div>
 
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
 
 {% raw %}
 ```html
